@@ -1,0 +1,6 @@
+iointel
+python-dotenv
+pyttsx3
+matplotlib
+transformers          
+torch                
