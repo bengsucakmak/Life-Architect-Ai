@@ -41,28 +41,48 @@ API Anahtarınızı ekleyin:
 config.py dosyasını açın ve API_KEY alanına kendi anahtarınızı yapıştırın.
 Ayrıca, BASE_URL ve MODEL_NAME ayarlarını da gerekirse düzenleyin.
 
+▶️ Nasıl Çalıştırılır?
 Uygulamayı başlatın:
 python main.py
 
+🚀Programı çalıştırdığınızda adım adım şu sorular sorulacak:
+🔹Kullanıcı adı
+🔹Seviye (beginner/intermediate/advanced)
+🔹Ruh hali (happy, sad, stressed, motivated)
+🔹Sesli okuma, koçluk, hatırlatıcı, chat modu, zeka testi ve özel görev gibi modları açıp açmayacağınız
+🔹Günlük görevlerinizi tamamlayın—her tamamlamadan sonra XP, grafik, madalya ve sosyal medya paylaşım bağlantısı alabilirsiniz.
+🔹Pomodoro zamanlayıcısı ile sürelerinizi yönetin.
+🔹Liderlik tablosunda sıralamanızı görün.
+
+
 🚀 Özellikler
-Kullanıcı hedeflerine özel görev önerisi
-Günlük özel görevler ve haftalık değerlendirmeler
-Ruh hali takibi ve motivasyon mesajları
-Pomodoro zamanlayıcısı ile odaklanma desteği
-XP sistemi ve liderlik tablosu ile ilerleme takibi
-Sosyal medya ile başarı paylaşımı
-Yapay zeka destekli gelişim koçluğu
+🔹Kullanıcı hedeflerine özel görev önerisi
+🔹Günlük özel görevler ve haftalık değerlendirmeler
+🔹Ruh hali takibi ve motivasyon mesajları
+🔹Pomodoro zamanlayıcısı ile odaklanma desteği
+🔹XP sistemi ve liderlik tablosu ile ilerleme takibi
+🔹Sosyal medya ile başarı paylaşımı
+🔹Yapay zeka destekli gelişim koçluğu
 
 📌 Gereksinimler
-Python 3.10 veya üstü
-Bir adet aktif IO.Intelligence API anahtarı
-İnternet bağlantısı
+🔹Python 3.10 veya üstü
+🔹Bir adet aktif IO.Intelligence API anahtarı
+🔹İnternet bağlantısı
 
 💬 İletişim
 Proje ile ilgili herhangi bir öneriniz, hata bildiriminiz veya katkı isteğiniz olursa bizimle iletişime geçebilirsiniz!
 
 [E-posta:bengusucakmak8@gmail.com]
 [Github Issues]
+🤝 Katkıda Bulunma
+Repoyu fork’layın.
+
+Yeni özellikler ekleyin veya hataları düzeltin.
+
+Pull request gönderin—hep birlikte geliştirelim!
+
+📜 Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazlası için LICENSE dosyasına bakın.
 
 ✨ Sen de kendi hayatının mimarı ol! Life Architect AI ile bugün gelişmeye başla. ✨
 
